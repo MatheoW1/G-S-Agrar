@@ -1,7 +1,7 @@
 body {
     margin: 0;
     min-height: 900px;
-    background-image: url("/img/1789210841059.jpg");
+    background-image: url("../img/1789210841059.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
